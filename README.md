@@ -1,2 +1,27 @@
-# homelink-student-housing-platform
-A product design project for an intelligent rental platform for Chinese international students.
+# HomeLink - 留学生智能找房平台产品设计文档
+
+**本项目为产品设计项目，未上线，仅用于展示产品经理的完整设计流程与思维过程。**
+
+## 🧠 项目背景
+中国海外留学生在找房过程中常面临房源不可信、交流不顺畅、制度不熟悉等问题。HomeLink 致力于打造一个本地化、智能化、安全可信的租房平台。
+
+## 🎯 项目定位
+- 面向对象：中国留学生（以爱尔兰为核心）
+- 核心价值：信息聚合 + 中文界面 + 室友匹配 + 一站式流程
+- 项目周期：2024.02 – 2024.11（虚拟产品项目）
+
+## 📄 项目结构
+- 用户调研文档 `docs/user-research-summary.pdf`
+- 产品需求文档 `docs/product-requirements-prd.pdf`
+- 竞品分析 `docs/competitive-analysis.pdf`
+- 核心原型图展示 `design/wireframes.png`
+- 商业模式说明 `docs/business-model.md`
+
+## 🔧 核心功能（设计层面）
+- 中文信息展示与房源聚合
+- 智能推荐（基于学校位置、预算等）
+- 看房预约系统（含时差算法）
+- 室友匹配机制 + 用户社区
+
+## 🚧 注意：
+本仓库为产品经理方向项目作品集，仅包含产品策划、调研、设计及商业方案，**并未开发上线**，如需查看原型图或详细文档请查阅 `docs/` 文件夹内容。
